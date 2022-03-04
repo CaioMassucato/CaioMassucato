@@ -12,9 +12,6 @@
 - 😄 Pronouns: He/His
 - 💬 Ask me about Python
 
-<br />
-<br />
-
 ---
 
 ### Connect with me:
