@@ -4,7 +4,7 @@
 ## Here are some things about me!
 
 - 🔭 I'm currently working on Happe
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Clojure
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Java
 - ⚡ Fun fact: I love RPG videogames and swimming
