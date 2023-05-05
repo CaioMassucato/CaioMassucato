@@ -3,10 +3,10 @@
 
 ## Here are some things about me!
 
-- 🔭 I'm currently working on Happe
-- 🌱 I’m currently learning Clojure
+- 🔭 I'm currently working on QuintoAndar
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Java
+- 🥅 2023 Goals: Learn more about Java/Kotlin and JVM
 - ⚡ Fun fact: I love RPG videogames and swimming
 - 📫 How to reach me: caiobernardon@gmail.com
 - 😄 Pronouns: He/His
